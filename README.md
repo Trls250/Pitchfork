@@ -7,7 +7,7 @@ Once the file is setup, run the python script ffrom the same directory as where 
 
 `csv_data = pd.read_csv('Pitchfork_Content_1.csv', encoding = 'utf-8')`
 
-## CSV Structure
+## CSV Input Structure
  The csv file follows a structure of including the review ID and Text of the review as below:
 
 | Reviewid  | Text |
